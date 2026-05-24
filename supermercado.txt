@@ -13,3 +13,9 @@ Módulo de Productos
 - Modificar productos
 - Eliminar productos
 - Consultar inventario
+Módulo de Clientes
+
+- Registrar clientes
+- Modificar clientes
+- Eliminar clientes
+- Consultar clientes
