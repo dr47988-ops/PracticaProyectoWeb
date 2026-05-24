@@ -26,3 +26,7 @@ Módulos incluidos:
 - Productos
 - Clientes
 - Proveedores
+
+CORRECCION HOTFIX
+
+Se corrige el registro de clientes VIP.
