@@ -7,3 +7,9 @@ Funciones iniciales:
 - Control de inventario
 - Registro de ventas
 - Consulta de precios
+Módulo de Productos
+
+- Registrar productos
+- Modificar productos
+- Eliminar productos
+- Consultar inventario
