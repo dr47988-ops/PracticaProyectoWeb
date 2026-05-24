@@ -19,3 +19,10 @@ Módulo de Clientes
 - Modificar clientes
 - Eliminar clientes
 - Consultar clientes
+
+Versión 1.0
+
+Módulos incluidos:
+- Productos
+- Clientes
+- Proveedores
