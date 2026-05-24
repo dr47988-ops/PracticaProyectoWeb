@@ -15,7 +15,7 @@ Módulo de Productos
 - Consultar inventario
 Módulo de Clientes
 
-- Registrar clientes
+- Registrar proveedores
 - Modificar clientes
 - Eliminar clientes
 - Consultar clientes
