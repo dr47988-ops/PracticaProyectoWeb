@@ -27,6 +27,7 @@ Módulos incluidos:
 - Clientes
 - Proveedores
 
+
 VERSION 1.0
 
 Modulos incluidos:
@@ -35,3 +36,8 @@ Modulos incluidos:
 - Proveedores
 
 Listo para produccion
+
+CORRECCION HOTFIX
+
+Se corrige el registro de clientes VIP.
+
