@@ -26,3 +26,12 @@ Módulos incluidos:
 - Productos
 - Clientes
 - Proveedores
+
+VERSION 1.0
+
+Modulos incluidos:
+- Productos
+- Clientes
+- Proveedores
+
+Listo para produccion
