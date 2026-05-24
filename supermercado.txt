@@ -1,0 +1,9 @@
+Supermercado La Economía
+
+Sistema de gestión para controlar productos, inventario y ventas.
+
+Funciones iniciales:
+- Registro de productos
+- Control de inventario
+- Registro de ventas
+- Consulta de precios
